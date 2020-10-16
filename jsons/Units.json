@@ -1,0 +1,39 @@
+[
+	{
+		"name": "Armored Penguin Carrier",
+		"uniqueTo": "Penguinia",
+		"replaces": "Tank",
+		"unitType": "Armor",
+		"movement": 6,
+		"strength": 83,
+		"cost": 475,
+		"requiredResource": "Oil",
+		"requiredTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus",
+			"Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"]
+	},
+	{
+		"name": "Weaponized Assault Penguins",
+		"uniqueTo": "Penguinia",
+		"replaces": "Infantry",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 62,
+		"cost": 400,
+		"requiredTech": "Plastics",
+		"uniques": ["Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Penguin Militia",
+		"uniqueTo": "Penguinia",
+		"replaces": "Great War Infantry",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 53,
+		"cost": 350,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"],
+		"attackSound": "shot"
+	}
+]

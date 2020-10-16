@@ -1,0 +1,23 @@
+	[
+		{
+			"name": "Penguinia",
+			"leaderName": "Bob",
+			"adjective": ["Penguin"],
+			"preferredVictoryType": "Scientific",
+			"startIntroPart1": ".",
+			"startIntroPart2": ".",
+			"declaringWar": "Have an ice day, squack.",
+			"attacked": "You've sqwuaked your last sqwuak",
+			"defeated": "Our dream of a pengutopia is been flapped",
+			"introduction": "Sqwuak",
+			"neutralHello": "Squack?",
+			"hateHello": "Quack!",
+			"tradeRequest": "Trade? Squack",
+			"outerColor": [225,225,225],
+			"innerColor": [0,0,0],
+			"uniqueName": "Art Of War",
+			"unqiues": ["Great General provides double combat bonus","[Great General] is earned [50]% faster"],
+			"cities": ["Penguinia","Penguinton DC","Pengunila","Pengkow","Beijsquack","Squakyo","Penguinia I","Penguinia II","Quackzon","Madaquackzar",
+				"St. Squackensberg","Quacksaka","Penguinogrod","Quackinggrad","Penguinesoda"]
+	    }
+	]
