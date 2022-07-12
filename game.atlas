@@ -1,33 +1,33 @@
 
 game.png
-size: 128,128
+size: 128, 128
 format: RGBA8888
-filter: MipMapLinearLinear,MipMapLinearLinear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Armored Penguin Carrier
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 70, 100
   orig: 70, 100
   offset: 0, 0
   index: -1
 NationIcons/Penguinia
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 70, 100
   orig: 70, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penguin Militia
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 70, 100
   orig: 70, 100
   offset: 0, 0
   index: -1
 UnitIcons/Weaponized Assault Penguins
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 70, 100
   orig: 70, 100
   offset: 0, 0
