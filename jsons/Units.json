@@ -1,40 +1,135 @@
-	[
+[
 	{
-		"name": "Armored Penguin Carrier",
-		"unitType": "Armor",
-		"uniqueTo": "Penguinia",
-		"replaces": "Tank",
+		"name": "Assault Penguin Carrier",
+		"unitType": "Gunpowder",
+		"replaces": "Mechanized Infantry",
+		"uniqueTo": "The Chinstrap Division",
+		"movement": 3,
+		"strength": 86,
+		"cost": 375,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["Can move after attacking","[+1] Movement <in [Tundra] tiles>"],
+		"attackSound": "shot"
+
+    },
+
+	{
+		"name": "Penguin Gunner",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"replaces": "Machine Gun",
+		"uniqueTo": "The Chinstrap Division",
+		"movement": 3,
+		"strength": 55,
+		"rangedStrength": 57,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"uniques": ["Can move after attacking","[+1] Movement <in [Tundra] tiles>"],
+		"attackSound": "machinegun"
+	},
+
+	{
+		"name": "Coastal Assailant",
+		"unitType": "Gunpowder",
+		"replaces": "Marine",
+		"uniqueTo": "The Chinstrap Division",
+		"movement": 3,
+		"strength": 64,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"promotions": ["Amphibious"],
+		"uniques": ["Can move after attacking","Normal vision when embarked", "Defense bonus when embarked","[+1] Movement <in [Tundra] tiles>"],
+		"attackSound": "shot"
+	},
+
+	{
+		"name": "Armored Seal",
+		"unitType": "Armored",
+		"replaces": "Modern Armor",
+		"uniqueTo": "The Adelie Armored Division",
 		"movement": 6,
-		"strength": 83,
-		"cost": 475,
-		"requiredTech": "Combined Arms",
+		"strength": 98,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Aluminum",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+
+	{
+		"name": "Abominable Snowman",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "The Adelie Armored Division",
+		"movement": 3,
+		"strength": 210,
+		"cost": 425,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
+
+	{
+		"name": "Penguin Launcher",
+		"unitType": "Siege",
+		"replaces": "Rocket Artillery",
+		"uniqueTo": "The Adelie Armored Division",
+		"movement": 3,
+		"strength": 40,
+		"rangedStrength": 56,
+		"range": 4,
+		"cost": 425,
+		"requiredTech": "Rocketry",
+		"requiredResource": "Aluminum",
+		"uniques": ["Can move after attacking", "[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+			 "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Diver",
+		"unitType": "Submarine",
+		"replaces": "Nuclear Submarine",
+		"uniqueTo": "The Emperor's Navy",
+		"movement": 6,
+		"strength": 50,
+		"range": 3,
+		"rangedStrength": 85,
+		"cost": 425,
+		"requiredTech": "Telecommunications",
+		"uniques": ["[+85]% Strength <when attacking>", "Can only attack [Water] tiles", "[+1] Sight", "Can carry [3] [Missile] units", "Never appears as a Barbarian unit"],
+		"attackSound": "torpedo"
+	},
+	{
+		"name": "Coastal Annahilator",
+		"unitType": "Aircraft Carrier",
+		"replaces": "Carrier",
+		"uniqueTo": "The Emperor's Navy",
+		"movement": 5,
+		"strength": 40,
+		"rangedStrength": 65,
+		"cost": 375,
+		"requiredTech": "Electronics",
+		"uniques": ["Can carry [4] [Aircraft] units"],
+		"attackSound": "shipguns"
+	},
+	{
+		"name": "Peace Maker",
+		"unitType": "Ranged Water",
+		"replaces": "Battleship",
+		"uniqueTo": "The Emperor's Navy",
+		"movement": 5,
+		"strength": 55,
+		"rangedStrength": 65,
+		"range": 3,
+		"cost": 375,
 		"requiredResource": "Oil",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"
-		,"Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"]
+		"requiredTech": "Electronics",
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
 
 	},
-		{
-		"name": "Weaponized Assault Penguins",
-		"unitType": "Melee",
-		"replaces": "Infantry",
-		"uniqueTo": "Penguinia",
-		"movement": 3,
-		"strength": 62,
-		"cost": 400,
-		"requiredTech": "Plastics",
-		"attackSound": "shot"
-		"uniques": ["Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"]
-	},
-	{
-		"name": "Penguin Militia",
-		"unitType": "Melee",
-		"replaces": "Great War Infantry",
-		"uniqueTo": "Penguinia",
-		"movement": 2,
-		"strength": 53,
-		"cost": 350,
-		"requiredTech": "Replaceable Parts",
-		"attackSound": "shot"
-		"uniques": ["Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"]
-	},
-	]
+]

@@ -1,34 +1,132 @@
 
 game.png
-size: 128, 128
+size: 2048, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-UnitIcons/Armored Penguin Carrier
+BuildingIcons/Arctic Coast
   rotate: false
-  xy: 4, 4
-  size: 70, 100
-  orig: 70, 100
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Penguinia
+BuildingIcons/Cryo Plant
   rotate: false
-  xy: 4, 4
-  size: 70, 100
-  orig: 70, 100
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Penguin Militia
+BuildingIcons/Icy Waters
   rotate: false
-  xy: 4, 4
-  size: 70, 100
-  orig: 70, 100
+  xy: 868, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Weaponized Assault Penguins
+BuildingIcons/Luxurious Cabin
+  rotate: false
+  xy: 976, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Cogpits
+  rotate: false
+  xy: 1624, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/The Igloo
+  rotate: false
+  xy: 1840, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Adelie Armored Division
+  rotate: false
+  xy: 1408, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Chinstrap Division
+  rotate: false
+  xy: 1516, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Emperor's Navy
+  rotate: false
+  xy: 1732, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Abominable Snowman
   rotate: false
   xy: 4, 4
-  size: 70, 100
-  orig: 70, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Seal
+  rotate: false
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Assault Penguin Carrier
+  rotate: false
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Coastal Annahilator
+  rotate: false
+  xy: 436, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Coastal Assailant
+  rotate: false
+  xy: 544, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Diver
+  rotate: false
+  xy: 760, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Peace Maker
+  rotate: false
+  xy: 1084, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguin Gunner
+  rotate: false
+  xy: 1192, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguin Launcher
+  rotate: false
+  xy: 1300, 4
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1

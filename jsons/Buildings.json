@@ -1,0 +1,68 @@
+[
+		{
+		"name": "Arctic Coast",
+		"hurryCostModifier": 25,
+		"replaces": "Seaport",
+		"uniqueTo": "The Emperor's Navy",
+		"maintenance": 3,
+		"requiredBuilding": "Harbor",
+		"uniques": ["[+1 Production, +4 Gold] from [Water resource] tiles [in this city]",
+			"Must be next to [Coast]", "[+25]% Production when constructing [Water] units [in this city]"],
+		"requiredTech": "Navigation"
+	},
+
+	{
+		"name": "Icy Waters",
+		"cost": 150,
+		"maintenance": 4,
+		"replaces": "Harbor",
+		"uniqueTo": "The Emperor's Navy",
+		"hurryCostModifier": 25,
+	    "uniques": ["[+20]% Strength <when fighting in [Plains] tiles>", "\"Borrows\" city names from other civilizations in the game", "[+20]% Production when constructing [Mounted] units [in all cities]"],
+		"requiredTech": "Compass"
+	},
+
+	{
+		"name": "The Igloo",
+		"hurryCostModifier": 25,
+		"replaces": "Barracks",
+		"uniqueTo": "The Chinstrap Division",
+		"maintenance": 2,
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured", "[+5]% Production when constructing [Military] units [in this city]"],
+		"requiredTech": "Bronze Working"
+	},
+
+	{
+		"name": "Luxurious Cabin",
+		"hurryCostModifier": 0,
+		"replaces": "Military Academy",
+		"uniqueTo": "The Chinstrap Division",
+		"maintenance": 2,
+		"requiredBuilding": "Armory",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",  "[+10]% Production when constructing [Gunpowder] units [in this city]"],
+		"requiredTech": "Military Science"
+	},
+	{
+		"name": "Cryo Plant",
+		"requiredResource": "Aluminum",
+		"replaces": "Hydro Plant",
+		"uniqueTo": "The Adelie Armored Division",
+		"hurryCostModifier": 0,
+	    "production": 2,
+		"maintenance": 3,
+		"uniques": ["Must be on [River]","[+2 Production] from [River] tiles [in this city]"],
+		"requiredTech": "Electricity"
+	},
+	{
+		"name": "The Cogpits",
+		"replaces": "Military Base",
+		"uniqueTo": "The Adelie Armored Division",
+		"cityStrength": 12,
+		"cityHealth": 25,
+	    "production": 3,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Arsenal",
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Destroyed when the city is captured","[+10]% Production when constructing [Armored] units [in this city]"]
+	},
+]
