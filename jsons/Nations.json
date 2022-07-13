@@ -22,7 +22,7 @@
 		"outerColor": [218,165,32],
 		"innerColor": [0,0,0],
 		"uniqueName": "The Wobbled March",
-        "uniques": ["[+20]% Strength <when fighting in [Tundra] tiles>", "\"Borrows\" city names from other civilizations in the game", "[+15]% Production when constructing [Gunpowder] units [in all cities]","Units ignore terrain costs when moving into any tile with Tundra",],
+        "uniques": ["[+20]% Strength <when fighting in [Tundra] tiles>", "\"Borrows\" city names from other civilizations in the game", "[+15]% Production when constructing [Gunpowder] units [in all cities]","Units ignore terrain costs when moving into any tile with Tundra"],
         "cities": ["Penguinland"]      
 	},
 	{
@@ -77,4 +77,34 @@
 		"uniques": ["Units ignore terrain costs when moving into any tile with Ocean", "\"Borrows\" city names from other civilizations in the game", "[+20]% Production when constructing [Water] units [in all cities]","[+1 Production] form every [Icy Waters]","[+1 Production] form every [Arctic Coast]"],
 		"cities": ["Penguinland"]
 	},
+	{
+		"name": "Svalbard",
+		"leaderName": "Iorek Byrnison",
+		"adjective": ["Svalbarbruhs"],
+		"startBias": ["Snow"],
+		//"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Ahahah",
+		"startIntroPart2": "Bruhh",
+
+		"declaringWar": "It'll be dark soon.",
+		"attacked": "Bears see tricks and deceit as plain as arms and legs. We can see in a way humans have forgotten. You cannot trick a bear.",
+		"defeated": "Yes, that is all.",
+		"introduction": "I will serve you in your campaign until you have a victory.",
+
+		"neutralHello": "Grr?",
+		"hateHello": "What do YOU want?",
+
+		"tradeRequest": "...",
+
+		"outerColor": [227,223,211],
+		"innerColor": [186,183,175],
+		"uniqueName": "The Home, Arctic",
+		"uniques": ["[+2 Production] from every [Snow]",
+			"[+1 Food] from every [Coast]",
+			"[+1 Food] from every [Ocean]",
+			"[+1] Movement <in [Snow] tiles>",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Svalbard"]
+	}
 ]

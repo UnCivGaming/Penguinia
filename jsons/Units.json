@@ -132,4 +132,17 @@
 		"attackSound": "shipguns"
 
 	},
+	{
+		"name": "Polar Division",
+		"unitType": "Gunpowder",
+		"replaces": "Rifleman",
+		"uniqueTo": "Svalbard",
+		"movement": 2,
+		"strength": 34,
+		"cost": 200,
+		"requiredTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
+		"promotions": ["Ice-cold heart"],
+		"upgradesTo": "Great War Infantry"
+	}
 ]
