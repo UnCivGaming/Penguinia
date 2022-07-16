@@ -6,210 +6,259 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Aputiak
   rotate: false
-  xy: 4, 6
+  xy: 4, 19
   size: 100, 98
   orig: 100, 98
   offset: 0, 0
   index: -1
 BuildingIcons/Arctic Coast
   rotate: false
-  xy: 112, 112
+  xy: 112, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cryo Plant
   rotate: false
-  xy: 760, 112
+  xy: 760, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Icy Waters
   rotate: false
-  xy: 1192, 112
+  xy: 1192, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Luxurious Cabin
   rotate: false
-  xy: 1300, 112
+  xy: 1408, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sparkling Beachfront
   rotate: false
-  xy: 436, 32
+  xy: 652, 45
   size: 100, 72
   orig: 100, 72
   offset: 0, 0
   index: -1
 BuildingIcons/The Cogpits
   rotate: false
-  xy: 760, 4
+  xy: 1084, 19
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Igloo
   rotate: false
-  xy: 1084, 6
+  xy: 1408, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Igloo
+  rotate: false
+  xy: 1300, 126
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+NationIcons/Svalbard
+  rotate: false
+  xy: 760, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Adelie Armored Division
   rotate: false
-  xy: 544, 4
+  xy: 868, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Chinstrap Division
   rotate: false
-  xy: 652, 4
+  xy: 976, 18
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Emperor's Navy
   rotate: false
-  xy: 868, 4
+  xy: 1192, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Humboldt Sailors
   rotate: false
-  xy: 976, 14
+  xy: 1300, 27
   size: 100, 91
   orig: 100, 91
   offset: 0, 0
   index: -1
 NationIcons/The Kairuku Savages
   rotate: false
-  xy: 1192, 4
+  xy: 1516, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Abominable Snowman
   rotate: false
-  xy: 4, 112
+  xy: 4, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Armored Penguin Carrier
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Penguinia
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguin Militia
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Weaponized Assault Penguins
+  rotate: false
+  xy: 1948, 125
+  size: 70, 100
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Armored Seal
   rotate: false
-  xy: 220, 112
+  xy: 220, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Assault Penguin Carrier
   rotate: false
-  xy: 328, 112
+  xy: 328, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Boarders
   rotate: false
-  xy: 436, 112
+  xy: 436, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bombadier
   rotate: false
-  xy: 112, 9
+  xy: 112, 22
   size: 100, 95
   orig: 100, 95
   offset: 0, 0
   index: -1
 UnitIcons/Coastal Annahilator
   rotate: false
-  xy: 544, 112
+  xy: 544, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Coastal Assailant
   rotate: false
-  xy: 652, 112
+  xy: 652, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Conqueror
   rotate: false
-  xy: 220, 12
+  xy: 220, 25
   size: 100, 92
   orig: 100, 92
   offset: 0, 0
   index: -1
 UnitIcons/Diver
   rotate: false
-  xy: 868, 112
+  xy: 868, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Explorer
   rotate: false
-  xy: 976, 113
+  xy: 976, 126
   size: 100, 99
   orig: 100, 99
   offset: 0, 0
   index: -1
 UnitIcons/Heavy Hitters
   rotate: false
-  xy: 1084, 114
+  xy: 1084, 127
   size: 100, 98
   orig: 100, 98
   offset: 0, 0
   index: -1
 UnitIcons/Peace Maker
   rotate: false
-  xy: 1408, 112
+  xy: 1516, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penguin Gunner
   rotate: false
-  xy: 1516, 112
+  xy: 1624, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penguin Launcher
   rotate: false
-  xy: 1624, 112
+  xy: 1732, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penguins with Sticks
   rotate: false
-  xy: 1732, 109
+  xy: 1840, 122
   size: 100, 103
   orig: 100, 103
   offset: 0, 0
   index: -1
 UnitIcons/Pointy Peckers
   rotate: false
-  xy: 1840, 112
+  xy: 328, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Polar Division
+  rotate: false
+  xy: 436, 4
+  size: 100, 113
+  orig: 100, 113
+  offset: 0, 0
+  index: -1
 UnitIcons/Savages
   rotate: false
-  xy: 328, 4
+  xy: 544, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

@@ -6,16 +6,16 @@
 		"startBias": ["[Tundra]"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
-		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		"startIntroPart1": " ",
+		"startIntroPart2": " ",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "You are standing in the way of my operation! Get 'em boys!",
+		"attacked": "I'll make you regret for ever picking a fight with the wrong penguin!",
+		"defeated": "NOOOO-",
+		"introduction": "General Skipper of the Chinstrap Division here, can you move out of my way?",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Salutation",
+		"hateHello": "The heck do you want?",
 
 		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
@@ -35,15 +35,15 @@
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "Your destructive behavior will not be tolerated, you must be stopped! Onward to war, comrades!",
+		"attacked": "Well well, getting a little cocky now are we?",
+		"defeated": "Sigh... Guess this is how we'll go down in history.",
+		"introduction": "This is Commander Kowalski speaking, are you a part of the Division or not?",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Greetings, friend.",
+		"hateHello": "Don't waste my time.",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Let us commence a trade agreement.",
 
 		"outerColor": [225,225,225],
 		"innerColor": [0,0,0],
@@ -61,15 +61,15 @@
 		"startIntroPart1": " ",
 		"startIntroPart2": " ",
 
-		"declaringWar": "The demon wants the blood of soldiers!",
-		"attacked": "Oh well, I presume you know what you're doing.",
-		"defeated": "It is over. Perhaps now I shall have peace, at last.",
-		"introduction": "Are you real or a phantom?",
+		"declaringWar": "The Emperor will see to your destruction.",
+		"attacked": "You dare challenge His Greatness and his imperial fleet?",
+		"defeated": "No! This cannot be possible!",
+		"introduction": "I bid you welcome. I speak on behalf of His Greatness and the Empire. ",
 
-		"neutralHello": "Greetings.",
-		"hateHello": "What do YOU want?!",
+		"neutralHello": "Welcome aboard.",
+		"hateHello": " This is restricted only to loyal subjects... And you're not one of them.",
 
-		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+		"tradeRequest": "Would you like some Ice cubes?",
 
 		"outerColor": [100,149,237],
 		"innerColor": [0,0,0],
@@ -127,7 +127,7 @@
 		"outerColor": [134, 176, 73],
 		"innerColor": [71, 105, 48],
 		"favoredReligion": "Tengriism",
-		"uniqueName": "Mongol Terror",
+		"uniqueName": "Destructive Fear",
 		"uniques": ["[+1] Movement <for [Sword] units>","\"Borrows\" city names from other civilizations in the game","When conquering an encampment, earn [15] Gold and recruit a Barbarian unit <with [67]% chance>","[-10]% maintenance costs <for [Land] units>"],
 		"cities": ["Penguinland"]
 	},
@@ -150,8 +150,8 @@
 		"outerColor": [114, 210, 222],
 		"innerColor": [33, 131, 128],
 		"favoredReligion": "Islam",
-		"uniqueName": "River Warlord",
-		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "\"Borrows\" city names from other civilizations in the game", "[Land] units gain the [Amphibious] promotion","[-10]% maintenance costs <for [Water] units>"],
+		"uniqueName": "Arctic Pirates",
+		"uniques": ["Receive triple Gold from Barbarian encampments and pillaging Cities", "\"Borrows\" city names from other civilizations in the game", "[Land] units gain the [Amphibious] promotion","[-10]% maintenance costs <for [Water] units>", "[+20]% Production when constructing [Water] units [in all cities]"],
 		"cities": ["Penguinland"]
 	},
 
