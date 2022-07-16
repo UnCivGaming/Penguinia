@@ -27,84 +27,84 @@ BuildingIcons/Cryo Plant
   index: -1
 BuildingIcons/Icy Waters
   rotate: false
-  xy: 1192, 125
+  xy: 1300, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Luxurious Cabin
   rotate: false
-  xy: 1408, 125
+  xy: 1516, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sparkling Beachfront
   rotate: false
-  xy: 652, 45
+  xy: 868, 45
   size: 100, 72
   orig: 100, 72
   offset: 0, 0
   index: -1
 BuildingIcons/The Cogpits
   rotate: false
-  xy: 1084, 19
+  xy: 1300, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Igloo
   rotate: false
-  xy: 1408, 17
+  xy: 1624, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Igloo
   rotate: false
-  xy: 1300, 126
+  xy: 1408, 126
   size: 100, 99
   orig: 100, 99
   offset: 0, 0
   index: -1
 NationIcons/Svalbard
   rotate: false
-  xy: 760, 17
+  xy: 976, 18
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Adelie Armored Division
   rotate: false
-  xy: 868, 17
+  xy: 1084, 19
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Chinstrap Division
   rotate: false
-  xy: 976, 18
+  xy: 1192, 18
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Emperor's Navy
   rotate: false
-  xy: 1192, 17
+  xy: 1408, 18
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Humboldt Sailors
   rotate: false
-  xy: 1300, 27
+  xy: 1516, 26
   size: 100, 91
   orig: 100, 91
   offset: 0, 0
   index: -1
 NationIcons/The Kairuku Savages
   rotate: false
-  xy: 1516, 17
+  xy: 1732, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -216,50 +216,64 @@ UnitIcons/Heavy Hitters
   index: -1
 UnitIcons/Peace Maker
   rotate: false
-  xy: 1516, 125
+  xy: 1624, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penguin Gunner
   rotate: false
-  xy: 1624, 125
+  xy: 1732, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penguin Launcher
   rotate: false
-  xy: 1732, 125
+  xy: 1840, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Penguins with Sticks
   rotate: false
-  xy: 1840, 122
+  xy: 436, 14
   size: 100, 103
   orig: 100, 103
   offset: 0, 0
   index: -1
 UnitIcons/Pointy Peckers
   rotate: false
-  xy: 328, 17
+  xy: 544, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Polar Division
   rotate: false
-  xy: 436, 4
+  xy: 652, 4
   size: 100, 113
   orig: 100, 113
   offset: 0, 0
   index: -1
 UnitIcons/Savages
   rotate: false
-  xy: 544, 17
+  xy: 760, 17
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ice-cold heart
+  rotate: false
+  xy: 1192, 126
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Penguin Sliding Stomachs
+  rotate: false
+  xy: 328, 21
+  size: 100, 96
+  orig: 100, 96
   offset: 0, 0
   index: -1

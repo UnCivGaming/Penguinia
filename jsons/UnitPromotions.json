@@ -3,5 +3,10 @@
         "name": "Ice-cold heart",
         "uniques": ["[+30]% Strength <when fighting in [Snow] tiles>",
                 "[+30]% Strength <when fighting in [Tundra] tiles>"]
+    },
+    {
+        "name": "Penguin Sliding Stomachs",
+        "uniques": ["[+30]% Strength <when fighting in [Snow] tiles>","[+1] movement in [Snow]","[+1] movement in [Snow]"],
+        "unitTypes": ["Sword","Gunpowder","Archery","Ranged Gunpowder"]
     }
 ]
