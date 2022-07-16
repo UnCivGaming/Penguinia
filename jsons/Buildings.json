@@ -65,4 +65,25 @@
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["Destroyed when the city is captured","[+10]% Production when constructing [Armored] units [in this city]"]
 	},
+	{
+		"name": "Aputiak",
+		"replaces": "Barracks",
+		"uniqueTo": "The Kairuku Savages",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Sword] units start with [7] Experience [in this city]","[-25]% Gold cost of acquiring tiles [in this city]",
+			"New [Military] units start with [12] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Bronze Working"
+	},
+{
+		"name": "Sparkling Beachfront",
+		"cost": 75,
+		"replaces": "Lighthouse",
+		"uniqueTo": "The Humboldt Sailors",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
+			"[+2 Food] from [Coast] tiles [in this city]", "[+2 Food] from [Fish] tiles [in this city]" ],
+		"requiredTech": "Optics"
+	},
 ]
